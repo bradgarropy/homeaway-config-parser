@@ -1,0 +1,34 @@
+{
+    "name": "homeaway-phonescreen",
+    "version": "1.0.0",
+    "description": "☎️ homeaway phone interview coding question",
+    "keywords": [
+        "node",
+        "eslint",
+        "homeaway",
+        "interview"
+    ],
+    "homepage": "https://github.com/bradgarropy/homeaway-phonescreen",
+    "bugs": {
+        "url": "https://github.com/bradgarropy/homeaway-phonescreen/issues"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Brad Garropy",
+        "email": "bradgarropy@gmail.com",
+        "url": "https://bradgarropy.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bradgarropy/homeaway-phonescreen"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "test": "jest"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^5.7.0",
+        "jest": "^23.6.0"
+    }
+}
